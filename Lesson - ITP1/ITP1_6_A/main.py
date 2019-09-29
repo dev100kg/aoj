@@ -1,0 +1,5 @@
+input()
+alist = list(map(int, input().split()))
+alist.reverse()
+print(*alist)
+# print(*list(reversed(list(map(int, input().split())))))
