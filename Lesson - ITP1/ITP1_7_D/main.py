@@ -9,8 +9,6 @@ for x in range(n):
 for y in range(m):
     b.append(list(map(int, input().split())))
 
-# print(a, b)
-sub_total = []
 for e in range(0, n):
     tm2 = []
     for f in range(0, l):
