@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\dev10\\workspace\\aoj\\.venv\\Scripts\\python.exe"
+    "files.eol": "\n",
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};${workspaceRoot}\\.venv\\Scripts"
+    },
+    "python.pythonPath": "${workspaceRoot}\\.venv\\Scripts\\python.exe",
 }
